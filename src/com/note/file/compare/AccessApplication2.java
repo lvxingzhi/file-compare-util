@@ -34,7 +34,7 @@ public class AccessApplication2 {
         mainPanel.add(mainPanel2);
         mainPanel.add(mainPanel3);
         JButton submit = new JButton("1");
-        submit.setPreferredSize(new Dimension(60,60));
+        submit.setPreferredSize(new Dimension(60,30));
         mainPanel1.add(submit);
         mainPanel2.add(new JLabel("左文件路径"));
         mainPanel2.add(new JTextField("2"));

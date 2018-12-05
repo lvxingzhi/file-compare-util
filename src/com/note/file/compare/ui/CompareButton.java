@@ -12,7 +12,7 @@ public class CompareButton extends JButton{
     public CompareButton() {
         super();
         this.setText("开始比对");
-        Dimension preferredSize = new Dimension(20,20);
+        Dimension preferredSize = new Dimension(100,40);
         this.setPreferredSize(preferredSize );
     }
 }
