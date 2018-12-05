@@ -1,15 +1,11 @@
 package com.note.file.compare;
-import com.note.file.compare.ui.CompareButton;
+
 import com.note.file.compare.ui.MainFrame;
 import com.note.file.compare.ui.MainPanel;
-import com.note.file.compare.util.FileCompareUtil;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.io.IOException;
-import java.util.Set;
 
 /**
  * @author xingzhi.lv
