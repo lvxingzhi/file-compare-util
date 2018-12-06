@@ -33,3 +33,6 @@ Thumbs.db
 # *.zip
 # *.tar
 # *.tar.gz
+
+out/
+.idea/workspace.xml
