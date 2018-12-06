@@ -43,10 +43,10 @@ public class AccessApplication {
         CompareButton compareButton = new CompareButton();
         mainPanel1.add(compareButton);
         mainPanel2.add(new JLabel("左文件路径"));
-        JTextField sourcefield =new JTextField("D:\\workspace\\file-compare\\src\\source.txt");
+        JTextField sourcefield =new JTextField("D:\\workspace\\file-compare-util\\src\\source.txt");
         mainPanel2.add(sourcefield);
         mainPanel2.add(new JLabel("右文件路径"));
-        JTextField targetfield =new JTextField("D:\\workspace\\file-compare\\src\\target.txt");
+        JTextField targetfield =new JTextField("D:\\workspace\\file-compare-util\\src\\target.txt");
         mainPanel2.add(targetfield);
 
         JTextField deffSourceText =new JTextField();
